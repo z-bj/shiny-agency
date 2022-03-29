@@ -17,3 +17,5 @@ const freelanceProfiles = [
     picture: DefaultPicture,
   },
 ]
+
+export default freelanceProfiles
